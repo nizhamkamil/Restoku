@@ -1,0 +1,366 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Tugas Visual Basic 1
+</name>
+</assembly>
+<members>
+<member name="T:Tugas_Visual_Basic_1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Background1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.BG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.cocktail_240px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Coffee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Coffee1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.dinner_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.edit_64px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.exit_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Fries">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Fries1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.graph_64px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.graphwhite_64px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.icons8_male_user_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.icons8_shopping_80px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.icons8_shopping_80px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.icons8_user_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.icons8_user_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.matcha_latte">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Nasgor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Noodle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Noodle1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Orange_Juice_1_of_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.password_64px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Pizza">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Pizza3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Pizza4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.PngItem_4042710">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Soup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Soup1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Steak">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.strawberry_juice_recipe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Tea">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Tea1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tugas_Visual_Basic_1.My.Resources.Resources.Water">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.EmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.MemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.PaymentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.ProductDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.EmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.MemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.PaymentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.ProductRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.EmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.MemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.PaymentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1.ProductRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.EmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.MemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.PaymentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.ProductTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Tugas_Visual_Basic_1.PointOfSalesDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Tugas_Visual_Basic_1.PointOfSalesDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Tugas_Visual_Basic_1.PointOfSalesDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.TableAdapterManager.UpdateAll(Tugas_Visual_Basic_1.PointOfSalesDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Tugas_Visual_Basic_1.PointOfSalesDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
